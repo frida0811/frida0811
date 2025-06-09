@@ -19,7 +19,7 @@
  🧰 Skills Overview
 
 ```text
-Languages:     Python, Java, SQL (basic)
+Languages:     Python, Java, SQL 
 Tools:         Git, GitHub, VSCode, Markdown
 Databases:     Neo4j, SQLite
 Concepts:      REST APIs, Graph Structures
