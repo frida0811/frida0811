@@ -6,17 +6,17 @@
 
 ---
 
-### 💼 About Me
+💼 About Me
 
 🎓 I recently completed my Master of Computing and Innovation at the University of Adelaide (2024).  
 💡 I’m currently looking for graduate opportunities in software development, data analysis, or technical support.  
-🤝 I’m someone who thrives in team environments—known for being reliable, approachable, and a good listener.  
+🤝 I’m someone who thrives in team environments,known for being reliable, approachable, and a good listener.  
 📢 With solid academic training and hands-on project experience, I’m eager to contribute and grow in the tech industry.  
 🌏 Based in Adelaide, open to remote or hybrid roles across Australia.
 
 ---
 
-### 🧰 Skills Overview
+ 🧰 Skills Overview
 
 ```text
 Languages:     Python, Java, SQL (basic)
@@ -28,7 +28,7 @@ Soft Skills:   Team collaboration, communication, adaptability, responsibility
 
 ---
 
-### 🚀 Featured Projects
+🚀 Featured Projects
 
 - [Aurora Chatbot 💬](https://github.com/frida0811/aurora-chatbot)  
   A user-friendly chatbot powered by ChatGPT API, with a clean interface, PDF export feature, mobile layout, and light/dark mode switch.  
@@ -40,7 +40,7 @@ Soft Skills:   Team collaboration, communication, adaptability, responsibility
 
 ---
 
-### 📫 Get in Touch
+📫 Get in Touch
 
 - 📧 Email: deardeer0811@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yu-frida-zhao-813b1434a](https://www.linkedin.com/in/yu-frida-zhao-813b1434a/)  
