@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Lingjiao (Frida) Zhao 👋</h2>
+<h2 align="center">Hi, I'm Frida YuZhao 👋</h2>
 <p align="center">
   <em>Graduate in Computing & Innovation | Team-Oriented | Based in Adelaide</em>
 </p>
